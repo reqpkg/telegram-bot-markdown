@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "types": ["vitest/globals"],
+    "esModuleInterop": false,
+    "skipLibCheck": true,
+    "lib": ["ESNext"],
+    "target": "ES6",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": false,
+    "resolveJsonModule": true,
+    "declaration": true,
+  },
+}
