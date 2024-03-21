@@ -1,7 +1,7 @@
 {
   "name": "telegram-bot-markdown",
-  "version": "1.0.0",
-  "description": "Markdown helpers for Telegram Bot",
+  "version": "1.0.3",
+  "description": "💬 Markdown helpers for Telegram Bot",
   "type": "module",
   "exports": {
     ".": {
@@ -23,6 +23,11 @@
     "type": "git",
     "url": "https://github.com/reqpkg/telegram-bot-markdown"
   },
+  "keywords": [
+    "telegram",
+    "bot",
+    "markdown"
+  ],
   "license": "MIT",
   "devDependencies": {
     "reqprettier": "^1.0.8",
