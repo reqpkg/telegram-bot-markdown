@@ -1,6 +1,6 @@
 {
   "name": "telegram-bot-markdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "💬 Markdown helpers for Telegram Bot",
   "type": "module",
   "exports": {
